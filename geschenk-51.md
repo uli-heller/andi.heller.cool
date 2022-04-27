@@ -10,7 +10,7 @@ gut darüber gefreut?
 
 Habe mir noch was anderes überlegt. Schau doch mal hier:
 
-https://www.diezugvoegel.de/termin-touren/kanu-wein-neckar
+<https://www.diezugvoegel.de/termin-touren/kanu-wein-neckar>
 
 ... Termin ist im Mai. Falls Du möchtest, können wir auch
 gerne noch Kegels oder Dannenbergs oder ... dazu einladen.
