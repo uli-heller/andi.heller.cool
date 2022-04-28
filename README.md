@@ -7,6 +7,7 @@ https://andi.heller.cool
 
 Hier die Rätselliste:
 
+- [Test](test.md)
 - [01.md](01.md)
 - [02-22225558.md](02-22225558.md)
 - [03-21675189.md](03-21675189.md)
