@@ -19,3 +19,7 @@ Hier die Rätselliste:
 Hier die Ausdrucke:
 
 - [Ausdrucke](ausdrucke/index.md)
+
+Lösungen:
+
+- [Lösungen](loesungen/index.md)
