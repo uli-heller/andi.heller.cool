@@ -15,7 +15,26 @@ Hier nun das erste Rätsel:
 - Was ist 6 mal 7?
 
 Notiere Dir das Ergebnis und klicke auf den untenstehenden
-Link ("Weiter"). Ergänze danach dann die Anleitung um das
+Link ("Weiter"). Schaue Dir dann die Adresszeile an und
+ergänze sie direkt nach dem letzten Bindestrich um das
 Ergebnis.
 
-[Weiter](01-)
+Also
+
+- angenommen, das Ergebnis ist 24
+- und in der Adresszeile steht nach "Weiter" der Wert "andi.heller.cool/01-.md",
+- dann ergänzt Du die Adresszeile bitte zu "andi.heller.cool/01-24.md".
+
+Hier noch
+ein paar Beispiele:
+
+Ergebnis | Adresszeile                 | Nach Ergänzung
+---------|-----------------------------|---------------------------
+24       | andi.heller.cool/01-        | andi.heller.cool/01-24
+24       | andi.heller.cool/01-.md     | andi.heller.cool/01-24.md
+24       | https://andi.heller/01-     | https://andi.heller/01-24
+24       | https://andi.heller/01-.md  | https://andi.heller/01-24.md
+
+Kompliziert, oder? Du schaffst es!
+
+<a href="/index.html#01-.md">Weiter</a>
