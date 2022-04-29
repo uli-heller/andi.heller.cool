@@ -15,4 +15,6 @@ Siehst du das? Falls ja, so sprich laut und deutlich:
 
 (Hat aber keinen Effekt)
 
-[Weiter](test.md)
+<script type="text/javascript">
+var nextUrl="/index.html#test";
+</script>
