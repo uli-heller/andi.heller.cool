@@ -37,6 +37,10 @@ Ergebnis | Adresszeile                 | Nach Ergänzung
 
 Kompliziert, oder? Du schaffst es!
 
+... nachdem Du den komplizierten Ablauf beherrscht, geht's
+jetzt auch einfacher: Gib das Ergebnis einfach unten ein und
+drücke dann auf "Weiter".
+
 <script type="text/javascript">
 var nextUrl="/index.html#01-";
 </script>
