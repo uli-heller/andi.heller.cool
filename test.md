@@ -37,4 +37,6 @@ Ergebnis | Adresszeile                 | Nach Ergänzung
 
 Kompliziert, oder? Du schaffst es!
 
-<a href="/index.html#01-.md">Weiter</a>
+<script type="text/javascript">
+var nextUrl="/index.html#01-";
+</script>
