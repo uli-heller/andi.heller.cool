@@ -17,4 +17,5 @@ Siehst du das? Falls ja, so sprich laut und deutlich:
 
 <script type="text/javascript">
 var nextUrl="/index.html#test";
+updateFooter(nextUrl);
 </script>

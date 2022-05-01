@@ -43,4 +43,5 @@ drücke dann auf "Weiter".
 
 <script type="text/javascript">
 var nextUrl="/index.html#01-";
+updateFooter(nextUrl);
 </script>
