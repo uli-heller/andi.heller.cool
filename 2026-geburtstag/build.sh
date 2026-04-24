@@ -5,4 +5,7 @@ pandoc --standalone vier.md                  >vier.html
 pandoc --standalone ichputzegernesonntags.md >ichputzegernesonntags.html
 pandoc --standalone wandertrainingslager.md  >wandertrainingslager.html
 pandoc --standalone nixplatt.md              >nixplatt.html
+pandoc --standalone 1000.md                  >1000.html
+pandoc --standalone big5.md                  >big5.html
+pandoc --standalone egal.md                  >egal.html
 pandoc --standalone lilly-loesung/index.md   >lilly-loesung/index.html

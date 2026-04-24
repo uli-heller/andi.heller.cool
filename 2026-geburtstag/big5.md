@@ -1,27 +1,32 @@
 <img src="heart-top.png" width=70/>
 
-# Putzpower vorhanden
+# Biologie perfekt
 
-Du hast bewiesen, dass Du über die notwendige
-Putzpower verfügst. Damit bist Du weiterhin im Rennen für den
-Erhalt der Kleinigkeit und kannst Dich immer noch freuen!
+Du hast Kraft, das ist gut.
+Mir gehen langsam aber sicher die
+Fragen aus. So richtig "bereit"
+für die Kleinigkeit wirkst Du auf
+mich aber noch nicht.
 
 # Hinweis auf die Kleinigkeit
 
-Die Kleinigkeit besteht aus mehreren Teilen.
-Sind also Keinigkeiten!
+Die Kleinigkeit ist quasi unsichtbar.
+Wenn Du kein SEHR gutes Gedächtnis hast,
+dann kannst Du sie sicherlich nicht einfach
+so sehen!
 
-# Dritte Aufgabe: Urlaub
+# Siebte Aufgabe: Quantenphysik
 
-Für die dritte Aufgabe mußt Du
-Reisequalitäten aufweisen. Finde
-das abgebildete Gepäckstück
-samt Codewort:
+Bei Genf gibt es das Institut CERN.
+Das verfügt über mehrere Teilchenbeschleuniger.
+Der größte ist der LHC mit einem Umfang von 27km.
 
-<img src="gepaeck.png" width=600/>
+Welche Masse hat das schwerste bislang dort
+entdeckte Elementarteilchen?
 
-Ergänze das Codewort um "trainingslager"
-und gib dieses Lösungswort ein!
+<details><summary>Zusatzhinweis nur für den Notfall!</summary>
+egal
+</details>
 
 <script type="text/javascript">
 function updateFooter(url) {
@@ -50,4 +55,4 @@ updateFooter(nextUrl);
 </script>
 
 <input id="footerUrl" type="text" style="display:none;"/>
-<div id="dynamic" display="block">Lösungswort Urlaub:  <input type="text" id="digits" value=""/></div> <input type="button" onclick="weiter()" value="Weiter" />
+<div id="dynamic" display="block">Lösung Quantenphysik:  <input type="text" id="digits" value=""/></div> <input type="button" onclick="weiter()" value="Weiter" />

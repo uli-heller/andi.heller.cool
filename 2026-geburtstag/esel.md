@@ -6,6 +6,11 @@ Du kannst es! Wer hätte das gedacht?
 Na gut, es war nur eine Testaufgabe. Die
 zählt nicht wirklich!
 
+# Hinweis auf die Kleinigkeit
+
+Die Kleinigkeit ist gut versteckt.
+Sie befindet sich irgendwo im Haus!
+
 # Erste "richtige" Aufgabe: Bauernschläue
 
 Treffen sich Bauer Karl und Bauer Heinz.

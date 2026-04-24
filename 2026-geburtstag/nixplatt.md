@@ -1,25 +1,29 @@
 <img src="heart-top.png" width=70/>
 
-# Urlaubswille besteht
+# Fahrrad im Griff
 
-Du bist bereit für Gewaltmärsche - super!
-Damit bin ich zuversichtlich, dass Du es auch
-bis zur Kleinigkeit schaffst! Du bist immer
-noch "im Rennen" und kannst weitermachen.
+Du hast Dein Fahrrad im Griff und
+es ist niemals platt! Das ist ein sehr gutes
+Zeichen!
 
-# Vierte Aufgabe: Fahrrad
+Eventuell mußt Du ja mit dem Fahrrad zur Kleinigkeit
+fahren? Da möchte man nur ungern ein Loch im Reifen
+haben. Ein voller Akku schadet sicher auch nix!
 
-Wo ein Urlaub ist, da auch ein Fahrrad.
+# Hinweis auf die Kleinigkeit
 
-Natürlich wäre ein Fahrrad als Suchbild viel zu einfach.
-Da weißt Du ja sofort, wo das ist. Hier ein Bild eines
-"Begleitgegenstandes". Finde ihn und das Codewort!
+Sie ist eher unten als oben!
 
-<details><summary>Begleitgegenstand</summary>
-<img src="radtraeger.png" width=600/>
-</details>
+# Fünfte Aufgabe: Mathe
 
-Nimm einfach das Codewort und gebe es unten ein!
+Die nachfolgende Aufgabe läuft unter dem Titel
+"Denkaufgaben für Kinder von 5-15 Jahren".
+Du schaffst es!
+
+Ein Ziegel wiegt soviel wie ein 500g und ein halber Ziegel. Wieviel
+Gramm wiegt ein ganzer Ziegel?
+
+Nimm die Grammzahl und gib sie unten ein (als Ziffernfolge)!
 
 <script type="text/javascript">
 function updateFooter(url) {
@@ -48,4 +52,4 @@ updateFooter(nextUrl);
 </script>
 
 <input id="footerUrl" type="text" style="display:none;"/>
-<div id="dynamic" display="block">Codewort Fahrrad:  <input type="text" id="digits" value=""/></div> <input type="button" onclick="weiter()" value="Weiter" />
+<div id="dynamic" display="block">Lösung Mathe:  <input type="text" id="digits" value=""/></div> <input type="button" onclick="weiter()" value="Weiter" />

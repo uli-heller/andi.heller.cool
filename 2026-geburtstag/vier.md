@@ -7,6 +7,10 @@ Bauernschläue verfügst. Damit bist Du für den
 Erhalt der Kleinigkeit grundsätzlich qualifiziert
 und kannst Dich schonmal freuen!
 
+# Hinweis auf die Kleinigkeit
+
+Die Kleinigkeit ist garnicht so klein!
+
 # Zweite Aufgabe: Putzmittel
 
 Für die zweite Aufgabe mußt Du beweisen, dass Du

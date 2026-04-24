@@ -7,6 +7,11 @@ Damit bin ich zuversichtlich, dass Du es auch
 bis zur Kleinigkeit schaffst! Du bist immer
 noch "im Rennen" und kannst weitermachen.
 
+# Hinweis auf die Kleinigkeiten
+
+Die vielen Kleinigkeiten sind in einem Behälter/Gefäß.
+Du mußt also nur ein "Ding" finden und hast dann alles!
+
 # Vierte Aufgabe: Fahrrad
 
 Wo ein Urlaub ist, da auch ein Fahrrad.
