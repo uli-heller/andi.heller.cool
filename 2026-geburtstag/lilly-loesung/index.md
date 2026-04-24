@@ -54,6 +54,10 @@ nixplatt
 
 ## Biologie
 
+<details><summary>Ort Biologie</summary>
+<img src="ort-biologie.png"/>
+</details>
+
 <details><summary>Lösung Biologie</summary>
 big5
 </details>
