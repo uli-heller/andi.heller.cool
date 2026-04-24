@@ -36,6 +36,12 @@ wandertrainingslager
 
 ## Fahrrad
 
+<details><summary>Ort Radträger</summary>
+Garage
+
+<img src="ort-radtraeger.png"/>
+</details>
+
 <details><summary>Lösung Fahrrad</summary>
 nixplatt
 </details>
