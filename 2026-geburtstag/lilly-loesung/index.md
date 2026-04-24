@@ -75,4 +75,6 @@ egal
 - Vorraum zum tiefen Keller
 - Stapel von Lilly
 - Zweiter Karton von oben
+
+<img src="ort-kleinigkeit.png"/>
 </details>
