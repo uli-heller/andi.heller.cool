@@ -19,7 +19,7 @@ Hier ist die kompakte Übersicht zu allen wichtigen Bereichen, die Sie beachten 
 * Finanzamt: Nach der Anmeldung erhalten Sie den „Fragebogen zur steuerlichen Erfassung“ für Ihre Steuernummer.
 * Rechtsform: Für den Start eignet sich meist das unkomplizierte Einzelunternehmen.
 * Umsatzsteuer: Überlegen Sie, ob Sie die Kleinunternehmerregelung nutzen (keine Umsatzsteuer ausweisen, aber auch kein Vorsteuerabzug).
-* Buchführung: Sie sind verpflichtet, alle Einnahmen und Ausgaben lückenlos zu dokumentieren (Einnahmen-Überschuss-Rechnung). [1, 2, 3] 
+* Buchführung: Sie sind verpflichtet, alle Einnahmen und Ausgaben lückenlos zu dokumentieren (Einnahmen-Überschuss-Rechnung). [1](https://www.fintiba.com/de/germany/working/freelancing), [2](https://www.imtest.de/ratgeber/selbstaendigkeit-ratgeber-tipps-chancen-risiken-nebenerwerb/484600), [3](https://shoperate.com/de/wissen/tattoo-gewerbe-anmelden-ohne-studio) 
 
 #### 🏥 Hygiene und Gesundheit (Sehr wichtig)
 
@@ -33,7 +33,7 @@ Hier ist die kompakte Übersicht zu allen wichtigen Bereichen, die Sie beachten 
 * Nutzungsänderung: Die Räume müssen offiziell als Gewerberaum für ein Tattoo-Studio zugelassen sein (Bauamt prüfen lassen).
 * Raumaufteilung: Sie benötigen zwingend eine strikte Trennung zwischen Wartebereich, Arbeitsbereich und dem Reinigungs-/Sterilisationsbereich.
 * Oberflächen: Wände und Böden im Arbeitsbereich müssen leicht abwaschbar und desinfizierbar sein (kein Teppich).
-* Sanitäranlagen: Kundentoilette und separate Handwaschbecken mit berührungslosen Armaturen für Sie sind Standard. [4] 
+* Sanitäranlagen: Kundentoilette und separate Handwaschbecken mit berührungslosen Armaturen für Sie sind Standard. [4](https://shoperate.com/de/wissen/tattoo-gewerbe-anmelden-ohne-studio)
 
 #### 📜 Absicherung und Verträge
 
